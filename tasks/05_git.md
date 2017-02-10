@@ -8,6 +8,7 @@ author: Drew Steen
 * Chacon **Pro Git**, particularly chapters 1-3 and 6
 * [Github Bootcamp](https://help.github.com/categories/bootcamp/) and other resources at github's [help](https://help.github.com/) site
 * The git cheat sheet [here](https://www.git-tower.com/blog/git-cheat-sheet/) (probably don't give them your email address)
+* [Interactive Git commandline tutorial](https://try.github.io/levels/1/challenges/1)
 * Lots of other resources all over the web
 
 # Tasks:
