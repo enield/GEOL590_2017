@@ -31,6 +31,7 @@ This lecture borrows heavily from [Chacon (2014) Pro Git](https://git-scm.com/bo
 ![circle_of_git](05_git_images/lifecycle.png "Chacon Fig 8")
     * `git add`: move files in the working directory to the staging area: `git add myscript.R`. This means *add to the next commit* not *add to the project*.
     * `git commit`: move files from the staging area to the repo: `git commit -m "corrected normalization procedure"`
+    * 'git rm --cached [filename]': Removes file from git repository (i.e. stops tracking) without deleting file from disk
 * Check the state and history of your repo:
     *  `git status`
     *  `git log`

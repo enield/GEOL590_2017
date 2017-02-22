@@ -45,7 +45,7 @@ Each function has (or should have) *documentation*, which can be accessed by typ
 * **Usage**, which tells you what arguments the function requires
 * **Arguments**, which tells you what those arguments do
 * **Value**, which tells you what the function returns. 
-It is particularly important to notice what type of *data structure* each argument must be, and what data structure the function will return. For instance, the help file for the `lm()` function, which fits linear models (accessible by typing `?lm`), tells you that the function requires a `formula` argument of class *formula*, some optional arguments, and that it will return an object of class *lm*. (More on what these things mean later). 
+It's particularly important to notice what type of *data structure* each argument must be, and what data structure the function will return. For instance, the help file for the `lm()` function, which fits linear models (accessible by typing `?lm`), tells you that the function requires a `formula` argument of class *formula*, some optional arguments, and that it will return an object of class *lm*. (More on what these things mean later). 
 
 # Data structures
 
