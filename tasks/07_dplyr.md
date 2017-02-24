@@ -12,7 +12,7 @@ author: Drew Steen
 * Regular expressions guide - there are many quickstart guides and cheat sheets on the web. I think [this one](http://stat545.com/block022_regular-expression.html) is pretty good.
 
 ## Notes on built-in datasets
-It makes sense to practice dplyr using large-ish data sets. Because those data sets make the package file size considerably bigger, they are distributed in packages of related data sets. To use the data sets, simply install and load them as you would with a regular pacakge. So, for instance:
+It makes sense to practice **dplyr** using large-ish data sets, since **dplyr** is designed handle big(ish) data. Because those data sets make the package file size considerably bigger, they are distributed in packages of related data sets. To use the data sets, simply install and load them as you would with a regular pacakge. So, for instance:
 
 ```
 install.packages("nycflights13")
