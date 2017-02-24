@@ -13,7 +13,7 @@ author: "Drew Steen"
 
 * Is the code commented informatively?
 * Are blank lines used to make the code easier to read?
-* Does the code follow the style guide from Chapter 5 of [Advanced R](http://adv-r.had.co.nz/Style.html)
+* Does the code follow the style guide from Chapter 5 of [Advanced R](http://adv-r.had.co.nz/Style.html)?
 
 # Conversation
 

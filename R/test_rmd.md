@@ -1,34 +1,29 @@
-Test notebook output
-================
-
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook, meant to test how github displays html generated from R Notebooks.
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook, meant to
+test how github displays html generated from R Notebooks.
 
 Displaying plots
 ================
 
 Here's a plot.
 
-``` r
-library(ggplot2)
-ggplot(diamonds, aes(x=x,y=y, colour=color)) + 
-  geom_point()
-```
+    library(ggplot2)
+    ggplot(diamonds, aes(x=x,y=y, colour=color)) + 
+      geom_point()
 
-![](test_rmd_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](test_rmd_files/figure-markdown_strict/unnamed-chunk-1-1.png)
 
 Displaying in-line code
 =======================
 
-Here's some text, including inline code which should be the number four: `2+2`.
+Here's some text, including inline code which should be the number four:
+`2+2`.
 
 Displaying data frames
 ======================
 
 Here's a data frame:
 
-``` r
-head(diamonds)
-```
+    head(diamonds)
 
     ## # A tibble: 6 × 10
     ##   carat       cut color clarity depth table price     x     y     z
