@@ -8,6 +8,7 @@ author: "Drew Steen"
 
 * Does the code do what it is supposed to?
 * Is the code reasonably elegant?
+* Is the code posted to github (as a .md file, derived from an R notebook)?
 
 # Style
 
