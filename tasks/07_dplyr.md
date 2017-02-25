@@ -41,7 +41,7 @@ We will be using two data packages: **nycflight13** and **babynames**. **nycflig
 * Make a *wide-format* data frame that displays the number of flights that leave Newark ("EWR") airport each month, from each airline
 * Using the **babynames** dataset:
     * Identify the ten most common male and female names in 2014. Make a plot of their frequency (`prop`) since 1880. (This may require two separate piped statements). 
-    * Make a single table of the 26th through 29th most common girls names in the year 1896, 1942, and 2016
+    * Make a single table of the 26th through 29th most common girls names in the year 1896, 1942, and 2014
 * Write task that involves some of the functions on the Data Wrangling Cheat Sheet and execute it. You may either use your own data or data packages (e.g., the ones listed [here](https://blog.rstudio.org/2014/07/23/new-data-packages/)).
 
 
