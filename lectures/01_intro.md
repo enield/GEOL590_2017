@@ -11,7 +11,7 @@ author: Drew Steen
 1. Introductions. Each student states the phase of their project, their department, and their motivation for taking the class.
      * Class scheduling
 
-2. Organize groups 
+2. Organize groups. 
     1. Have students fill out experience questionnaire and add up points (on a 0-2 scale) 
         2. Have students line up by experience from most to least
         3. Divide into thirds, I guess. Each group of 3 must contain 1 student from each third.
